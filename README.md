@@ -1,2 +1,2 @@
 # CarPrice_prediction
-Using Machine Learning techniques to predict price of a car
+A Python Application that allow user to Predict price of a car using machine learning algorithms
